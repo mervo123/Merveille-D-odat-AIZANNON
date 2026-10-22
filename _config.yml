@@ -1,0 +1,57 @@
+
+title: "Merveille Déodat Babatoundé AIZANNON"
+name: "Merveille Déodat Babatoundé AIZANNON"
+
+description: >-
+  Ingénieur en réseaux et télécommunications.
+  Intelligence artificielle, IoT, analyse de données,
+  infrastructures intelligentes et reverse engineering.
+
+url: "https://mervo123.github.io"
+baseurl: "/merveille-portfolio"
+
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+minimal_mistakes_skin: "air"
+
+locale: "fr-FR"
+lang: "fr"
+timezone: "Africa/Porto-Novo"
+
+logo: "/merveille-portfolio/assets/merveille-aizannon.jpg"
+
+github_username: "mervo123"
+
+author:
+  name: "Merveille Déodat Babatoundé AIZANNON"
+  bio: "Ingénieur en réseaux et télécommunications | IA appliquée aux infrastructures"
+  location: "Cotonou, Bénin"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/mervo123"
+
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/merveille-aizannon-513b41200"
+
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:merveilleaizannon@gmail.com"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+markdown: kramdown
+highlighter: rouge
+
+include:
+  - _pages
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
