@@ -20,7 +20,7 @@ Aujourd'hui, je souhaite approfondir mes compétences en **reverse engineering, 
 
 Pour moi, comprendre un système ne consiste pas uniquement à savoir l'utiliser : il s'agit aussi de chercher à comprendre son fonctionnement, d'identifier ses composants, d'analyser ses comportements et de déterminer comment il peut être amélioré.
 
-## 🛠️ Compétences et domaines d'intérêt
+## Compétences et domaines d'intérêt
 
 | Domaine | Compétences et connaissances |
 |---|---|
