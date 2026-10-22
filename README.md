@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/merveille-aizannon.jpg" alt="Merveille Déodat Babatoundé AIZANNON" width="180" style="border-radius: 50%;" />
+  <img src="/Merveille-D-odat-AIZANNON/assets/merveille-aizannon.jpg" alt="Merveille Déodat Babatoundé AIZANNON" width="180" style="border-radius: 50%;" />
   <h1>Merveille Déodat Babatoundé AIZANNON</h1>
   <h3>Ingénieur en réseaux & télécommunications | IA appliquée aux infrastructures</h3>
   <p><strong>Comprendre les systèmes. Analyser les données. Concevoir des solutions utiles.</strong></p>
