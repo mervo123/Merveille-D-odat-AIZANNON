@@ -21,7 +21,7 @@ feature_row:
     excerpt: "Analyse de données, apprentissage automatique et exploration de l'IA explicable pour les systèmes techniques."
 ---
 
-{% include feature_row id="intro" type="center" %}
+
 
 ## À propos de moi
 
@@ -32,8 +32,6 @@ Mon parcours associe les télécommunications, les réseaux informatiques, les s
 Je souhaite approfondir mes compétences en **reverse engineering, analyse technique des systèmes et intelligence artificielle appliquée aux infrastructures numériques**.
 
 ## Domaines de compétence
-
-{% include feature_row %}
 
 - **Réseaux informatiques :** équipements réseau, infrastructures et transmission de données.
 - **Télécommunications :** réseaux mobiles, optimisation radio et indicateurs de performance.
