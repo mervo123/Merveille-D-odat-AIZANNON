@@ -1,18 +1,16 @@
-# Merveille Déodat Babatoundé AIZANNON
-### Ingénieur en réseaux & télécommunications | IA appliquée aux infrastructures | Exploration du Reverse Engineering
-
-<p align="center">
-  <strong>Comprendre les systèmes. Analyser les données. Concevoir des solutions utiles.</strong>
-</p>
-
-<p align="center">
+<div align="center">
+  <img src="assets/merveille-aizannon.jpg" alt="Merveille Déodat Babatoundé AIZANNON" width="180" style="border-radius: 50%;" />
+  <h1>Merveille Déodat Babatoundé AIZANNON</h1>
+  <h3>Ingénieur en réseaux & télécommunications | IA appliquée aux infrastructures</h3>
+  <p><strong>Comprendre les systèmes. Analyser les données. Concevoir des solutions utiles.</strong></p>
   <a href="https://www.linkedin.com/in/merveille-aizannon-513b41200">LinkedIn</a> •
-  <a href="mailto:merveilleaizannon@gmail.com">Email</a>
-</p>
+  <a href="mailto:merveilleaizannon@gmail.com">Email</a> •
+  <a href="https://github.com/mervo123/tntapplication">Projet TNT sur GitHub</a>
+</div>
 
 ---
 
-## 👋 À propos de moi
+## À propos de moi
 
 Je suis ingénieur en réseaux informatiques et télécommunications, formé à l'École Polytechnique d'Abomey-Calavi, au Bénin. Mon parcours associe les télécommunications, les réseaux informatiques, les systèmes de sécurité technique et l'analyse de problématiques rencontrées sur le terrain.
 
@@ -36,7 +34,7 @@ Pour moi, comprendre un système ne consiste pas uniquement à savoir l'utiliser
 
 ## Projets techniques
 
-### 1. Prédiction de la couverture de la télévision numérique terrestre au Bénin
+### 1.  [Prédiction de la couverture de la télévision numérique terrestre au Bénin](https://github.com/mervo123/tntapplication)
 
 **Type : Projet académique**
 
