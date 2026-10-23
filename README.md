@@ -1,111 +1,73 @@
 # Merveille Déodat Babatoundé AIZANNON
 
-**Ingénieur en réseaux et télécommunications | IA appliquée aux infrastructures**
+### Ingénieur en réseaux et télécommunications | Intérêt pour l'IA appliquée aux infrastructures numériques
 
 > Comprendre les systèmes. Analyser les données. Concevoir des solutions utiles.
 
-- **LinkedIn :** [Mon profil](https://www.linkedin.com/in/merveille-aizannon-513b41200)
-- **Email :** [merveilleaizannon@gmail.com](mailto:merveilleaizannon@gmail.com)
-- **Projet TNT :** [Consulter le dépôt](https://github.com/mervo123/tntapplication)
-- **Localisation :** Cotonou, Bénin
+## 👋 À propos de moi
 
-## À propos
+Je suis ingénieur en réseaux informatiques et télécommunications, formé à l'École Polytechnique d'Abomey-Calavi, au Bénin.
 
-Je suis ingénieur en réseaux informatiques et télécommunications, formé à l'École Polytechnique d'Abomey-Calavi, au Bénin. Mon parcours associe les télécommunications, les réseaux informatiques, les infrastructures techniques et l'analyse de problématiques rencontrées sur le terrain.
+Mon parcours associe les télécommunications, les réseaux informatiques et les infrastructures techniques. Je m'intéresse également à l'intelligence artificielle, à l'analyse de données et au reverse engineering.
 
-Je m'intéresse à l'utilisation de Python et de l'intelligence artificielle pour analyser les données techniques, comprendre les anomalies et améliorer le diagnostic des systèmes.
+Mon objectif est de développer des compétences permettant de concevoir et d'améliorer des solutions technologiques adaptées aux besoins des infrastructures numériques africaines.
 
-Mes axes de développement actuels sont le **reverse engineering, l'analyse technique des systèmes et l'intelligence artificielle appliquée aux infrastructures numériques**.
+## 🛠️ Domaines de compétences et d'intérêt
 
-## Compétences et domaines d'intérêt
+- **Réseaux informatiques :** infrastructures réseau, transmission de données et câblage structuré.
+- **Télécommunications :** optimisation radio et analyse des indicateurs de performance réseau.
+- **Courants faibles :** vidéosurveillance, contrôle d'accès et sécurité incendie.
+- **Programmation :** Python, HTML et CSS.
+- **Analyse et intelligence artificielle :** analyse de données, apprentissage automatique et IA explicable.
+- **Reverse engineering :** apprentissage de l'analyse technique et de la compréhension du fonctionnement des systèmes.
 
-| Domaine | Compétences et connaissances |
-|---|---|
-| Réseaux | Réseaux informatiques, équipements réseau, infrastructures et transmission de données |
-| Télécommunications | Réseaux mobiles, optimisation radio et indicateurs de performance |
-| Courants faibles | Réseaux VDI, vidéosurveillance, contrôle d'accès et sécurité incendie |
-| Programmation | Python, HTML et CSS |
-| Modélisation | Bases de MATLAB et Simulink |
-| Intelligence artificielle | Apprentissage automatique, analyse de données et IA explicable : domaines de pratique et d'approfondissement |
-| Reverse engineering | Domaine d'exploration et de développement de compétences |
-
-## Projets techniques
+## 🚀 Projets
 
 ### 1. Prédiction de la couverture TNT au Bénin
 
-**Type :** Projet académique
+Projet académique consacré à la prédiction de la couverture de la télévision numérique terrestre au Bénin.
 
-Projet consacré à la prédiction de la couverture de la télévision numérique terrestre au Bénin, avec une approche associant données géographiques et radioélectriques, apprentissage automatique et interprétabilité.
-
-Axes techniques présentés :
-- Prédiction de couverture radio.
-- Exploitation de données de terrain.
-- Modélisation avec XGBoost.
-- Interprétation des prédictions avec SHAP et LIME.
-
-**Technologies associées :** Python, XGBoost, SHAP et LIME.
-
-[Accéder au projet sur GitHub](https://github.com/mervo123/tntapplication)
+- Technologies et méthodes : Python, XGBoost, SHAP et LIME.
+- [Consulter le dépôt du projet](https://github.com/mervo123/tntapplication)
 
 ### 2. Optimisation des performances des réseaux mobiles
 
-**Type :** Expérience professionnelle — Huawei Technologies, 2025
+Expérience professionnelle acquise chez Huawei en 2025, dans le domaine de l'optimisation radio et du suivi des indicateurs de qualité de service, notamment CSSR, DCR et HOSR.
 
-Expérience dans le domaine de l'optimisation radio des réseaux mobiles et de l'analyse d'indicateurs de qualité de service :
+### 3. RadioDiag AI
 
-- **CSSR :** taux de succès d'établissement des appels.
-- **DCR :** taux de coupure des appels.
-- **HOSR :** taux de succès des handovers.
+Concept en cours de conception : un assistant intelligent envisagé pour analyser les indicateurs réseau, repérer des anomalies et proposer des pistes de vérification technique.
 
-Cette expérience a renforcé mon intérêt pour l'analyse des performances réseau et la recherche de pistes d'amélioration.
+*Ce projet est actuellement au stade du concept.*
 
-### 3. RadioDiag AI — Assistant intelligent de diagnostic radio
+## 💼 Expérience technique
 
-**Statut : Concept en conception**
+Mon expérience comprend la participation à des projets liés aux :
 
-RadioDiag AI est une idée de solution visant à explorer comment l'intelligence artificielle pourrait assister les ingénieurs dans l'analyse des performances des réseaux mobiles.
+- Réseaux informatiques et au câblage structuré ;
+- Équipements réseau et à la vidéosurveillance ;
+- Systèmes de sécurité incendie ;
+- Solutions de contrôle d'accès et autres installations à courants faibles ;
+- Études techniques, à la coordination et au suivi de travaux.
 
-Fonctionnalités envisagées :
-- Analyse des indicateurs de performance réseau.
-- Détection exploratoire d'anomalies.
-- Explication des causes potentielles.
-- Suggestions de vérifications techniques.
-- Utilisation de l'IA explicable pour faciliter l'interprétation.
+## 🎓 Formation et apprentissage
 
-**Pistes technologiques :** Python, analyse de données, apprentissage automatique et IA explicable.
-
-Ce projet est encore au stade de la conception ; aucun prototype opérationnel n'est présenté ici.
-
-## Expérience des infrastructures techniques
-
-Mes expériences comprennent des travaux d'étude, d'installation, de supervision ou de contrôle autour de plusieurs infrastructures :
-
-- Réseaux informatiques et câblage structuré.
-- Équipements réseau et vidéosurveillance.
-- Systèmes de sécurité incendie.
-- Contrôle d'accès, sonorisation et installations à courants faibles.
-- Supervision de travaux et suivi de l'exécution technique.
-
-## Formation et certifications
-
-- **Formation d'ingénieur en réseaux et télécommunications** — École Polytechnique d'Abomey-Calavi.
-- **Introduction à l'Internet des objets (IoT)** — Cisco Skills for All.
+- Formation en réseaux informatiques et télécommunications à l'École Polytechnique d'Abomey-Calavi.
+- Introduction à l'Internet des objets (IoT) avec Cisco Skills for All.
 - Bases de MATLAB et Simulink.
-- Formation en développement frontend : HTML, CSS et notions de PHP.
+- Apprentissage du développement web avec HTML et CSS.
 
-## Ma vision
+## 🎯 Objectif professionnel
 
-Je souhaite contribuer au développement de solutions technologiques adaptées aux réalités des infrastructures numériques africaines.
+Approfondir mes connaissances en réseaux, télécommunications, programmation et intelligence artificielle afin de contribuer à des projets technologiques à fort impact.
 
-À l'intersection des réseaux, des télécommunications, de l'analyse technique et de l'intelligence artificielle, je veux continuer à apprendre, expérimenter et construire des outils capables de répondre à des problèmes concrets.
+Je souhaite notamment explorer les applications de l'IA à la supervision, au diagnostic et à l'amélioration des infrastructures numériques.
 
-Le reverse engineering représente pour moi une compétence complémentaire pour approfondir ma compréhension des systèmes et renforcer ma capacité à investiguer des problèmes techniques.
+## 📬 Me contacter
 
-## Contact
-
-- **Email :** [merveilleaizannon@gmail.com](mailto:merveilleaizannon@gmail.com)
-- **LinkedIn :** [merveille-aizannon-513b41200](https://www.linkedin.com/in/merveille-aizannon-513b41200)
-- **GitHub :** [mervo123](https://github.com/mervo123)
+- **Email :** merveilleaizannon@gmail.com
+- **LinkedIn :** [Merveille Aizannon](https://www.linkedin.com/in/merveille-aizannon-513b41200)
+- **GitHub :** [@mervo123](https://github.com/mervo123)
 - **Localisation :** Cotonou, Bénin
 
 ---
