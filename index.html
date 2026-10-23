@@ -17,6 +17,28 @@ section{padding:30px 0;border-top:1px solid var(--line)}.section-title{display:f
 .contact-panel{display:grid;grid-template-columns:1fr 1fr;gap:28px;align-items:center;padding:28px;background:linear-gradient(120deg,#edf7ff,#f7fbff);border:1px solid #e1efff;border-radius:var(--radius)}.contact-panel h2{margin:0 0 8px;color:var(--dark);font-size:25px}.contact-panel p{margin:0;color:#4f6889;font-size:14px}.contact-list{display:grid;gap:10px;font-size:14px}.contact-list a,.contact-list span{display:flex;align-items:center;gap:10px;overflow-wrap:anywhere}.contact-icon{width:25px;text-align:center;color:var(--blue);font-size:18px}footer{padding:28px 0 38px;text-align:center;color:var(--blue);font-size:13px;font-style:italic}.footer-line{display:inline-block;width:55px;height:1px;background:#8bbcff;vertical-align:middle;margin:0 14px}
 @media(max-width:900px){.nav{align-items:flex-start;flex-direction:column;padding:14px 0;gap:10px}.nav-links{gap:14px}.hero{grid-template-columns:1fr .7fr;gap:20px}.project-grid{grid-template-columns:repeat(2,1fr)}.three-columns{gap:18px}}
 @media(max-width:650px){.container{width:min(100% - 28px,560px)}.hero,.about-grid,.contact-panel{grid-template-columns:1fr}.hero{padding-top:36px;gap:18px}.portrait-wrap{min-height:240px}.portrait{height:235px;width:min(82%,300px)}.project-grid,.three-columns{grid-template-columns:1fr}.section-title{font-size:23px}.nav-links{gap:8px 15px}.contact-panel{padding:22px}.footer-line{width:25px;margin:0 6px}}
+/* Cadre de l'image du projet */
+.project-banner {
+  width: 100%;
+  height: 135px;
+  min-height: 135px;
+  padding: 0;
+  overflow: hidden;
+  display: block;
+  background: #eaf4ff;
+}
+
+/* Image ajustée au cadre */
+.project-banner .project-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  border: none;
+  border-radius: 0;
+  margin: 0;
+}  
 </style>
 </head>
 <body>
